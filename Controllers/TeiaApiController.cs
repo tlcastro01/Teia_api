@@ -8,11 +8,12 @@ namespace Teia_api.Controllers;
 public class TeiaApiController : ControllerBase
 {
 
-    private readonly ILogger<TeiaApiController> _logger;
+    //private readonly ILogger<TeiaApiController> _logger;
 
-    public TeiaApiController(ILogger<TeiaApiController> logger)
+    //public TeiaApiController(ILogger<TeiaApiController> logger)
+    public TeiaApiController()
     {
-        _logger = logger;
+        //_logger = logger;
     }
     [HttpGet]
     public string Get()

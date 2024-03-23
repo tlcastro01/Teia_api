@@ -23,3 +23,4 @@ C:\Users\tlcas\Projetos Csharp\Teia_api\obj\Debug\net8.0\refint\Teia_api.dll
 C:\Users\tlcas\Projetos Csharp\Teia_api\obj\Debug\net8.0\Teia_api.pdb
 C:\Users\tlcas\Projetos Csharp\Teia_api\obj\Debug\net8.0\Teia_api.genruntimeconfig.cache
 C:\Users\tlcas\Projetos Csharp\Teia_api\obj\Debug\net8.0\ref\Teia_api.dll
+C:\Users\tlcas\Projetos Csharp\Teia_api\obj\Debug\net8.0\Teia_api.sourcelink.json
