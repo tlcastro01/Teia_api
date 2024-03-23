@@ -17,7 +17,9 @@ public class TeiaApiController : ControllerBase
     [HttpGet]
     public string Get()
     {
-        return "Desafio Teia - Matrícula C119972 - Nome: Thiago Lima de Castro";
+        return "Desafio Teia \n" +
+                " Matrícula C119972 \n" +
+                "Nome: Thiago Lima de Castro";
     }
 
     [HttpGet]
